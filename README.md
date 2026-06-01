@@ -8,10 +8,8 @@
 
 ### About Me
 
-- 🔭 Mid-level full stack developer with a focus on building end-to-end web solutions
+- Full stack developer with a focus on building end-to-end web and mobile app solutions
 - 🌍 Based in Addis Ababa, Ethiopia
-- 💬 Ask me about **React, Node.js, or system design**
-- 📫 Reach me at the links below
 
 ---
 
@@ -42,12 +40,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ademecheklie&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ademe's GitHub stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademecheklie&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ademecheklie&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -59,13 +54,10 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="[https://linkedin.com/in/ademecheklie](https://www.linkedin.com/in/ademe-cheklie-a125b016b/)">
+  <a href="https://linkedin.com/in/ademecheklie">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ademecheklie&style=flat&color=grey" alt="profile views" />
-</p>
