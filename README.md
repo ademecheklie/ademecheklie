@@ -47,17 +47,3 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p>
-  <a href="https://github.com/ademecheklie">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ademe-cheklie-a125b016b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
